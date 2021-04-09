@@ -1,6 +1,6 @@
 # RFID Station
-The system picks up boxes with indicator LED and checks by RFID. 
-Project by Thanat Mongkolajala , CO-OPERATIVE EDUCATION , KMUTNB
+The system picks up boxes with indicator LED and checks by RFID.</br>
+Project by Thanat Mongkolajala , CO-OPERATIVE EDUCATION , KMUTNB</br>
 
 
 This is the arduino code to read RFID card using RC-522 RFID module and LED 
