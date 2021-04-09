@@ -13,7 +13,7 @@ Module
 3.ทำการตรวจสอบอีกรอบที่ Station Check ถ้าหยิบมาถูกไฟเขียวจะติด ถ้าหยิบมาผิดไฟแดงจะติด</br>
 4.ระบบจะ Re set เมื่อมีคำสั่งเลือก Station ถัดไป </br>
 
-https://youtu.be/Yw-I72qVLmQ
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yw-I72qVLmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video : https://youtu.be/Yw-I72qVLmQ
+
 
 
