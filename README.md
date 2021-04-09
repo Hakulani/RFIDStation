@@ -1,5 +1,5 @@
 # RFID Station
-The system picks up boxes with indicator LED and checks by RFID.</br>
+The system picks station with indicator LED and checks by RFID.</br>
 Project by Thanat Mongkolajala , CO-OPERATIVE EDUCATION , KMUTNB</br>
 
 
