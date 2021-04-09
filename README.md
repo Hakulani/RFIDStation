@@ -2,7 +2,8 @@
 The system picks up boxes with indicator LED and checks by RFID.
 
 This is the arduino code to read RFID card using RC-522 RFID module and LED 
-Module
+Module</br>
+
 1.Master Board</br>
 2.Check RFID Card Board</br>
 3.Slave Board</br>
