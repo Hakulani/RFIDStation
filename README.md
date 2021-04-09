@@ -11,6 +11,9 @@ Module</br>
 2.Check RFID Card Board</br>
 3.Slave Board</br>
 
+![Board](https://user-images.githubusercontent.com/61573397/114146479-d4614300-9941-11eb-88d0-0666b412eb66.jpg)</br>
+
+
 1.การทำงานจะใช้การส่งคำสั่งในการเลือก Stationและสั่งให้หลอด LED ติด 
 ![Capture](https://user-images.githubusercontent.com/61573397/114144018-0fae4280-993f-11eb-8028-543f1a21c963.JPG)
 </br>
